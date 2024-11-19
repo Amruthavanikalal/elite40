@@ -1,0 +1,16 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+ul{
+    list-style: none;
+}
+ul li{
+    display: block;
+    margin-right: 100px;
+    text-transform: uppercase;
+    text-align: center;
+}
+ul li:hover{
+    color: rgb(255, 0, 102);
+}
